@@ -1,0 +1,7 @@
+@"
+.venv/
+.env/
+/.env
+_pycache_/
+*.py[cod]
+"@ | Set-Content .gitignore
