@@ -1,7 +1,7 @@
 class DevelopmentConfig():
     MYSQL_HOST='localhost'
-    MYSQL_USER='Galy'
-    MYSQL_PASSWORD='Lavey2005'
+    MYSQL_USER='root'
+    MYSQL_PASSWORD=''
     MYSQL_DB='api_utl'
 
 config={
