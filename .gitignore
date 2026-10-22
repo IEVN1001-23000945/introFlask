@@ -1,7 +1,5 @@
-@"
-.venv/
+# Entorno virtual
 .env/
-/.env
-_pycache_/
-*.py[cod]
-"@ | Set-Content .gitignore
+
+# Bootstrap
+bases_flask/static/bootstrap/
